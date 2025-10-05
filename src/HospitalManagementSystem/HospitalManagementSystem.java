@@ -23,7 +23,7 @@ public class HospitalManagementSystem {
 
             while (true) {
                 System.out.println("Hospital Management System :");
-                System.out.println("1. Add Patients");
+                System.out.println("1. Add Patient");
                 System.out.println("2. View Patients");
                 System.out.println("3. View Doctors");
                 System.out.println("4. Book Appointment");
